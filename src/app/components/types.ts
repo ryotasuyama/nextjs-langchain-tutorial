@@ -4,6 +4,6 @@ export type MessageType = {
 }
 
 export type TaskType = {
-    taslID: string
+    taskID: string
     taskName: string
 }
